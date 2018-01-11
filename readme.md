@@ -24,3 +24,6 @@
 - 在cmd中运行下载的脚本运行，python getMyAnswer
 
 # 没有意外的话我们的人工智障答题小助手就跑起来了
+![image](https://github.com/turbineyang/getMyAnswer/blob/master/screenshot.png?raw=true)
+![image](https://github.com/turbineyang/getMyAnswer/blob/master/res.png?raw=true)
+![image](https://github.com/turbineyang/getMyAnswer/blob/master/time.png?raw=true)
